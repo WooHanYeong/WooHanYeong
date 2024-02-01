@@ -17,6 +17,9 @@
   </a>
 
 <h3 align="center">✨ Project ✨</h3>
-<div >
+<div>
+<h2>
+갤러리 커뮤니티
 https://github.com/WooHanYeong/201Gallery
+</h2>
 </div>
