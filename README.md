@@ -13,7 +13,7 @@
   </a>
   <a href="#">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/dngksdud3130@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 
 <h3 align="center">✨ Project ✨</h3>
