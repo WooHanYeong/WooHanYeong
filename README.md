@@ -11,9 +11,10 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Blog-2D8C3C?style=for-the-badge&logo=blogger&logoColor=white"/>&nbsp
   </a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>
+  <a href="mailto:dngksdud3130@gmail.com">
+    <img
+      src="https://img.shields.io/badge/dngksdud3130@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 
 <h3 align="center">✨ Project ✨</h3>
 <div>
