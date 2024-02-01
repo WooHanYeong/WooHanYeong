@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/java-00A2FF?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
