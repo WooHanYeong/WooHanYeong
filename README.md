@@ -1,4 +1,9 @@
 
+항상 발전하는 자세로 개발공부를 하고 있는 우한영입니다.
+지속적인 성장으로 제 가치를 인정받고, 더 나아가 다른 사람들에게 도움을 줄 수 있는 개발자로 성장하는 것이 목표입니다.
+새로운 것을 배우는 것과 새로운 환경에 적응하는 것이 두렵지 않습니다.
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-00A2FF?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
