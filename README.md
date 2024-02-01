@@ -9,7 +9,7 @@
 <h3 align="center">📚 Contact 📚</h3>
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Blog-2D8C3C?style=for-the-badge&logo=blogger&logoColor=white" />&nbsp
   </a>
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
