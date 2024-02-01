@@ -19,7 +19,7 @@
 <h3 align="center">✨ Project ✨</h3>
 <div>
 <h2>
-갤러리 커뮤니티
-https://github.com/WooHanYeong/201Gallery
+201 갤러리 커뮤니티 - https://github.com/WooHanYeong/201Gallery
+음악사이트 망고 - #
 </h2>
 </div>
