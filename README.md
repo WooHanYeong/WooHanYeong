@@ -7,7 +7,7 @@
 </br></br>
 
 <h3 >✨ Tech Stack ✨</h3>
-<div align="center">
+<div >
   <img src="https://img.shields.io/badge/java-00A2FF?style=for-the-badge&logo=java&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/python-F2CC38?style=for-the-badge&logo=python&logoColor=61DAFB" />&nbsp
 </div>
@@ -40,19 +40,19 @@
       src="https://img.shields.io/badge/dngksdud3130@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-</br>
+</br></br>
 
 "[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
 
-
+</br></br>
 
 <h3 >✨ Project ✨</h3>
 <div>
 <h2>
 201 갤러리 커뮤니티 - https://github.com/WooHanYeong/201Gallery
-</br>
+</br></br>
 음악사이트 망고 - https://github.com/WooHanYeong/teamProject-mango
-</br>
+</br></br>
 피자사이트 - https://github.com/WooHanYeong/teamProject-pizza
 </h2>
 </div>
