@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ajax-FF3633?style=for-the-badge&logo=ajax&logoColor=white" />&nbsp
-
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=61DAFB" />&nbsp
@@ -39,7 +38,8 @@
       src="https://img.shields.io/badge/dngksdud3130@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-</br>
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
 
 <h3 align="center">✨ Project ✨</h3>
