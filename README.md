@@ -51,7 +51,7 @@
 </div>
 </br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_조why)](https://solved.ac/profile/96_why)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
 
 
 
