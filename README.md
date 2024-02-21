@@ -48,8 +48,8 @@
 </br>
 피자사이트 - https://github.com/WooHanYeong/teamProject-pizza
 </h2>
-</div>
-
-
+</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/이름/)
+
+</div>
 
