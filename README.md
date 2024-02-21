@@ -50,7 +50,8 @@
 </h2>
 </div>
 </br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=우한영)](https://solved.ac/96_why/)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_조why)](https://solved.ac/profile/96_why)
 
 
 
