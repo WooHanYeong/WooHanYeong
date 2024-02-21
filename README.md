@@ -1,10 +1,10 @@
 
 항상 발전하는 자세로 개발공부를 하고 있는 우한영입니다.
-</br>
+</br></br>
 지속적인 성장으로 제 가치를 인정받고, 더 나아가 다른 사람들에게 도움을 줄 수 있는 개발자로 성장하는 것이 목표입니다.
-</br>
+</br></br>
 새로운 것을 배우는 것과 새로운 환경에 적응하는 것이 두렵지 않습니다.
-</br>
+</br></br>
 
 <h3 >✨ Tech Stack ✨</h3>
 <div align="center">
@@ -40,9 +40,10 @@
       src="https://img.shields.io/badge/dngksdud3130@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
 </br>
+
 "[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
+
 
 
 <h3 >✨ Project ✨</h3>
