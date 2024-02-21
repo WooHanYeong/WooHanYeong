@@ -38,7 +38,8 @@
     <img
       src="https://img.shields.io/badge/dngksdud3130@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  </br>
+</div>
+</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
 
 <h3 align="center">✨ Project ✨</h3>
