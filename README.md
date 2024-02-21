@@ -50,4 +50,6 @@
 </h2>
 </div>
 
-https://solved.ac/profile/96_why
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/이름/)
+
