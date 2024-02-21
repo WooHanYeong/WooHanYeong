@@ -39,7 +39,7 @@
   </a>
 </div>
 
-
+<div align=center> ["[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)] </div> 
 "[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
 
 
