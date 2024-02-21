@@ -40,7 +40,8 @@
 </div>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
+"[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
+
 
 <h3 align="center">✨ Project ✨</h3>
 <div>
@@ -52,10 +53,9 @@
 피자사이트 - https://github.com/WooHanYeong/teamProject-pizza
 </h2>
 </div>
-</br>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96_why)](https://solved.ac/profile/96_why)
+
 
 
 
