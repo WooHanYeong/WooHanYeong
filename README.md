@@ -32,7 +32,7 @@
 
 <h3 >📚 Contact 📚</h3>
 <div >
-  <a href="#">
+  <a href="https://woohanyeong96.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-2D8C3C?style=for-the-badge&logo=blogger&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:dngksdud3130@gmail.com">
