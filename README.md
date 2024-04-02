@@ -49,7 +49,7 @@
 <h3 >✨ Project ✨</h3>
 <div>
 <h2>
-201 갤러리 커뮤니티 - https://github.com/WooHanYeong/201Gallery
+ForMyPet 유기견분양사이트 - https://github.com/WooHanYeong/formypet
 </br></br>
 음악사이트 망고 - https://github.com/WooHanYeong/teamProject-mango
 </br></br>
